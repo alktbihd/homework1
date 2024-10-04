@@ -27,7 +27,7 @@ public class RoomOfRequirement extends Location{
 				System.out.println(items[i].description);
 				return;
 			} 
-			System.out.println("Item is not in the room");
+			System.out.println(objectName + " is not in the room");
 
 		} 
 		
